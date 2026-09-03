@@ -1,0 +1,6 @@
+{
+  "name": "Seda Beauty Studio",
+  "description": "Premium beauty studio in Ararat Province (ք․ Վեդի & ք․ Արտաշատ), Armenia specializing in signature Hollywood waves, bridal hair styling, Russian hardware manicures, and luxury aesthetics. Phone: 093 33 24 14.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
